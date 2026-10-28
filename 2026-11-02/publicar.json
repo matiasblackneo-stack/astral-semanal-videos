@@ -62,7 +62,8 @@
     "escorpio",
     "cáncer",
     "shorts"
-   ]
+   ],
+   "publicado": true
   },
   {
    "fecha": "2026-11-02",
@@ -78,7 +79,8 @@
     "horóscopo de hoy",
     "qué me depara la semana",
     "shorts"
-   ]
+   ],
+   "publicado": true
   },
   {
    "fecha": "2026-11-04",
@@ -94,7 +96,8 @@
     "horóscopo",
     "astrología",
     "shorts"
-   ]
+   ],
+   "publicado": true
   },
   {
    "fecha": "2026-11-06",
@@ -110,7 +113,8 @@
     "horóscopo",
     "astrología",
     "shorts"
-   ]
+   ],
+   "publicado": true
   }
  ]
 }
