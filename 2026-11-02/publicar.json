@@ -30,7 +30,8 @@
     "acuario",
     "piscis"
    ],
-   "publicado": true
+   "publicado": true,
+   "auto": true
   },
   {
    "fecha": "2026-11-01",
@@ -48,7 +49,8 @@
     "capricornio",
     "shorts"
    ],
-   "publicado": true
+   "publicado": true,
+   "auto": true
   },
   {
    "fecha": "2026-11-02",
@@ -64,7 +66,8 @@
     "aries",
     "horóscopo aries",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-02",
@@ -80,7 +83,8 @@
     "tauro",
     "horóscopo tauro",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-03",
@@ -96,7 +100,8 @@
     "géminis",
     "horóscopo géminis",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-03",
@@ -112,7 +117,8 @@
     "cáncer",
     "horóscopo cáncer",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-04",
@@ -128,7 +134,8 @@
     "leo",
     "horóscopo leo",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-04",
@@ -144,7 +151,8 @@
     "virgo",
     "horóscopo virgo",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-05",
@@ -160,7 +168,8 @@
     "libra",
     "horóscopo libra",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-05",
@@ -176,7 +185,8 @@
     "escorpio",
     "horóscopo escorpio",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-06",
@@ -192,7 +202,8 @@
     "sagitario",
     "horóscopo sagitario",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-06",
@@ -208,7 +219,8 @@
     "capricornio",
     "horóscopo capricornio",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-07",
@@ -224,7 +236,8 @@
     "acuario",
     "horóscopo acuario",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-07",
@@ -240,7 +253,8 @@
     "piscis",
     "horóscopo piscis",
     "shorts"
-   ]
+   ],
+   "auto": false
   },
   {
    "fecha": "2026-11-02",
@@ -255,7 +269,8 @@
     "cáncer",
     "escorpio y cáncer",
     "shorts"
-   ]
+   ],
+   "auto": true
   },
   {
    "fecha": "2026-11-04",
@@ -270,7 +285,8 @@
     "acuario",
     "leo y acuario",
     "shorts"
-   ]
+   ],
+   "auto": true
   },
   {
    "fecha": "2026-11-02",
@@ -286,7 +302,25 @@
     "horóscopo de hoy",
     "qué me depara la semana",
     "shorts"
-   ]
+   ],
+   "auto": true
+  },
+  {
+   "fecha": "2026-11-04",
+   "archivo": "Short_Tarot_elige_una_carta.mp4",
+   "titulo": "🔮 Elige una carta: tu mensaje del tarot para la semana del 2 al 8 de noviembre #shorts",
+   "descripcion": "Piensa en tu pregunta, elige la carta 1, 2 o 3 y descubre tu mensaje de la semana ✨ ¿Qué carta elegiste? Cuéntame en los comentarios.\nNuevo tarot cada miércoles.\n#shorts #tarot #eligeunacarta #tarotsemanal #horoscopo #astrologia",
+   "tags": [
+    "tarot",
+    "elige una carta",
+    "tarot semanal",
+    "lectura de tarot",
+    "mensaje del universo",
+    "horóscopo",
+    "astrología",
+    "shorts"
+   ],
+   "auto": true
   }
  ]
 }
